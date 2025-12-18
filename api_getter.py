@@ -33,7 +33,7 @@ launchpads = requests.get('https://api.spacexdata.com/v4/launchpads').json()
 rocket_names = {r['id']: r['name'] for r in rockets}
 launchpad_names = {l['id']: l['name'] for l in launchpads}
 
-#тут записываю в csv используя отдельно взятые ракеты и площадки для запуска по айдишкам
+# тут записываю в csv используя отдельно взятые ракеты и площадки для запуска по айдишкам
 
 with open('all_data.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
@@ -58,7 +58,7 @@ with open('all_data.csv', 'w', newline='', encoding='utf-8') as f:
             launch.get('flight_number', '')
         ])
 
-print('Все записи сохранены в spacex_all_launches.csv')
+print('Все записи сохранены в all_data.csv')
 
 years = sorted(set(date_utc[:4] for date_utc in [l.get('date_utc', '') for l in launches] if date_utc))
 print(f"- Период: {years[0]} - {years[-1]} год")
