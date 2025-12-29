@@ -1,7 +1,14 @@
 # надо подумать что такое запуски у которых успешность не 0 и не 1
 
+'''
+Space Launch Complex 40 = CCSFS SLC 40
+Space Launch Complex 4E = VAFB SLC 4E
+Launch Complex 39A = KSC LC 39A
+'''
+
 import requests
 import csv
+from datetime import datetime
 
 url = "https://api.spacexdata.com/v5/launches/query"
 
@@ -35,7 +42,7 @@ launchpad_names = {l['id']: l['name'] for l in launchpads}
 
 # тут записываю в csv используя отдельно взятые ракеты и площадки для запуска по айдишкам
 
-with open('all_data.csv', 'w', newline='', encoding='utf-8') as f:
+with open('from2006to2022.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     writer.writerow(['date', 'year', 'rocket_name', 'launchpad_name', 'success', 'flight_number'])
     
@@ -43,6 +50,9 @@ with open('all_data.csv', 'w', newline='', encoding='utf-8') as f:
         date_utc = launch.get('date_utc', '')
         year = date_utc[:4] if date_utc else ''
         
+        date_utc = datetime.fromisoformat(date_utc.replace('Z', '+00:00'))
+        date_utc = date_utc.strftime('%Y-%m-%d %H:%M')
+
         rocket_name = rocket_names.get(launch.get('rocket'), 'Unknown')
         launchpad_name = launchpad_names.get(launch.get('launchpad'), 'Unknown')
         
@@ -58,7 +68,7 @@ with open('all_data.csv', 'w', newline='', encoding='utf-8') as f:
             launch.get('flight_number', '')
         ])
 
-print('Все записи сохранены в all_data.csv')
+print('Все записи сохранены в from2006to2022.csv')
 
 years = sorted(set(date_utc[:4] for date_utc in [l.get('date_utc', '') for l in launches] if date_utc))
 print(f"- Период: {years[0]} - {years[-1]} год")

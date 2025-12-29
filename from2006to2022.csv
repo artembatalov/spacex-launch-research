@@ -1,0 +1,206 @@
+date,year,rocket_name,launchpad_name,success,flight_number
+2006-03-24 22:30,2006,Falcon 1,Kwajalein Atoll,0,1
+2007-03-21 01:10,2007,Falcon 1,Kwajalein Atoll,0,2
+2008-08-03 03:34,2008,Falcon 1,Kwajalein Atoll,0,3
+2008-09-28 23:15,2008,Falcon 1,Kwajalein Atoll,1,4
+2009-07-13 03:35,2009,Falcon 1,Kwajalein Atoll,1,5
+2010-06-04 18:45,2010,Falcon 9,Space Launch Complex 40,1,6
+2010-12-08 15:43,2010,Falcon 9,Space Launch Complex 40,1,7
+2012-05-22 07:44,2012,Falcon 9,Space Launch Complex 40,1,8
+2012-10-08 00:35,2012,Falcon 9,Space Launch Complex 40,1,9
+2013-03-01 19:10,2013,Falcon 9,Space Launch Complex 40,1,10
+2013-09-29 16:00,2013,Falcon 9,Space Launch Complex 4E,1,11
+2013-12-03 22:41,2013,Falcon 9,Space Launch Complex 40,1,12
+2014-01-06 18:06,2014,Falcon 9,Space Launch Complex 40,1,13
+2014-04-18 19:25,2014,Falcon 9,Space Launch Complex 40,1,14
+2014-07-14 15:15,2014,Falcon 9,Space Launch Complex 40,1,15
+2014-08-05 08:00,2014,Falcon 9,Space Launch Complex 40,1,16
+2014-09-07 05:00,2014,Falcon 9,Space Launch Complex 40,1,17
+2014-09-21 05:52,2014,Falcon 9,Space Launch Complex 40,1,18
+2015-01-10 09:47,2015,Falcon 9,Space Launch Complex 40,1,19
+2015-02-11 23:03,2015,Falcon 9,Space Launch Complex 40,1,20
+2015-03-02 03:50,2015,Falcon 9,Space Launch Complex 40,1,21
+2015-04-14 20:10,2015,Falcon 9,Space Launch Complex 40,1,22
+2015-04-27 23:03,2015,Falcon 9,Space Launch Complex 40,1,23
+2015-06-28 14:21,2015,Falcon 9,Space Launch Complex 40,0,24
+2015-12-22 01:29,2015,Falcon 9,Space Launch Complex 40,1,25
+2016-01-17 15:42,2016,Falcon 9,Space Launch Complex 4E,1,26
+2016-03-04 23:35,2016,Falcon 9,Space Launch Complex 40,1,27
+2016-04-08 20:43,2016,Falcon 9,Space Launch Complex 40,1,28
+2016-05-06 05:21,2016,Falcon 9,Space Launch Complex 40,1,29
+2016-05-27 21:39,2016,Falcon 9,Space Launch Complex 40,1,30
+2016-06-15 14:29,2016,Falcon 9,Space Launch Complex 40,1,31
+2016-07-18 04:45,2016,Falcon 9,Space Launch Complex 40,1,32
+2016-08-14 05:26,2016,Falcon 9,Space Launch Complex 40,1,33
+2016-09-01 13:07,2016,Falcon 9,Space Launch Complex 40,0,34
+2017-01-14 17:54,2017,Falcon 9,Space Launch Complex 4E,1,35
+2017-02-19 14:39,2017,Falcon 9,Launch Complex 39A,1,36
+2017-03-16 06:00,2017,Falcon 9,Launch Complex 39A,1,37
+2017-03-30 22:27,2017,Falcon 9,Launch Complex 39A,1,38
+2017-05-01 11:15,2017,Falcon 9,Launch Complex 39A,1,39
+2017-05-15 23:21,2017,Falcon 9,Launch Complex 39A,1,40
+2017-06-03 21:07,2017,Falcon 9,Launch Complex 39A,1,41
+2017-06-23 19:10,2017,Falcon 9,Launch Complex 39A,1,42
+2017-06-25 20:25,2017,Falcon 9,Space Launch Complex 4E,1,43
+2017-07-05 23:35,2017,Falcon 9,Launch Complex 39A,1,44
+2017-08-14 16:31,2017,Falcon 9,Launch Complex 39A,1,45
+2017-08-24 18:50,2017,Falcon 9,Space Launch Complex 4E,1,46
+2017-09-07 13:50,2017,Falcon 9,Launch Complex 39A,1,47
+2017-10-09 12:37,2017,Falcon 9,Space Launch Complex 4E,1,48
+2017-10-11 22:53,2017,Falcon 9,Launch Complex 39A,1,49
+2017-10-30 19:34,2017,Falcon 9,Launch Complex 39A,1,50
+2017-12-15 15:36,2017,Falcon 9,Space Launch Complex 40,1,51
+2017-12-23 01:27,2017,Falcon 9,Space Launch Complex 4E,1,52
+2018-01-08 01:00,2018,Falcon 9,Space Launch Complex 40,1,53
+2018-01-31 21:25,2018,Falcon 9,Space Launch Complex 40,1,54
+2018-02-06 20:45,2018,Falcon Heavy,Launch Complex 39A,1,55
+2018-02-22 14:17,2018,Falcon 9,Space Launch Complex 4E,1,56
+2018-03-06 05:33,2018,Falcon 9,Space Launch Complex 40,1,57
+2018-03-30 14:13,2018,Falcon 9,Space Launch Complex 4E,1,58
+2018-04-02 20:30,2018,Falcon 9,Space Launch Complex 40,1,59
+2018-04-18 22:51,2018,Falcon 9,Space Launch Complex 40,1,60
+2018-05-11 20:14,2018,Falcon 9,Launch Complex 39A,1,61
+2018-05-22 19:47,2018,Falcon 9,Space Launch Complex 4E,1,62
+2018-06-04 04:45,2018,Falcon 9,Space Launch Complex 40,1,63
+2018-06-29 09:42,2018,Falcon 9,Space Launch Complex 40,1,64
+2018-07-22 05:50,2018,Falcon 9,Space Launch Complex 40,1,65
+2018-07-25 11:39,2018,Falcon 9,Space Launch Complex 4E,1,66
+2018-08-07 05:18,2018,Falcon 9,Space Launch Complex 40,1,67
+2018-09-10 04:45,2018,Falcon 9,Space Launch Complex 40,1,68
+2018-10-08 02:22,2018,Falcon 9,Space Launch Complex 4E,1,69
+2018-11-15 20:46,2018,Falcon 9,Launch Complex 39A,1,70
+2018-12-03 18:34,2018,Falcon 9,Space Launch Complex 4E,1,71
+2018-12-05 18:16,2018,Falcon 9,Space Launch Complex 40,1,72
+2018-12-23 13:51,2018,Falcon 9,Space Launch Complex 40,1,73
+2019-01-11 15:31,2019,Falcon 9,Space Launch Complex 4E,1,74
+2019-02-22 01:45,2019,Falcon 9,Space Launch Complex 40,1,75
+2019-03-02 07:45,2019,Falcon 9,Launch Complex 39A,1,76
+2019-04-11 22:35,2019,Falcon Heavy,Launch Complex 39A,1,77
+2019-05-04 06:48,2019,Falcon 9,Space Launch Complex 40,1,78
+2019-05-24 02:30,2019,Falcon 9,Space Launch Complex 40,1,79
+2019-06-12 14:17,2019,Falcon 9,Space Launch Complex 4E,1,80
+2019-06-25 03:30,2019,Falcon Heavy,Launch Complex 39A,1,81
+2019-07-25 22:01,2019,Falcon 9,Space Launch Complex 40,1,82
+2019-08-06 22:52,2019,Falcon 9,Space Launch Complex 40,1,83
+2019-11-11 14:56,2019,Falcon 9,Space Launch Complex 40,1,84
+2019-12-05 17:29,2019,Falcon 9,Space Launch Complex 40,1,85
+2019-12-17 00:10,2019,Falcon 9,Space Launch Complex 40,1,86
+2020-01-07 02:19,2020,Falcon 9,Space Launch Complex 40,1,87
+2020-01-19 14:00,2020,Falcon 9,Launch Complex 39A,1,88
+2020-01-29 14:06,2020,Falcon 9,Space Launch Complex 40,1,89
+2020-02-17 15:05,2020,Falcon 9,Space Launch Complex 40,1,90
+2020-03-07 04:50,2020,Falcon 9,Space Launch Complex 40,1,91
+2020-03-18 12:16,2020,Falcon 9,Launch Complex 39A,1,92
+2020-04-22 19:30,2020,Falcon 9,Launch Complex 39A,1,93
+2020-05-30 19:22,2020,Falcon 9,Launch Complex 39A,1,94
+2020-06-04 01:25,2020,Falcon 9,Space Launch Complex 40,1,95
+2020-06-13 09:21,2020,Falcon 9,Space Launch Complex 40,1,96
+2020-06-30 19:55,2020,Falcon 9,Space Launch Complex 40,1,97
+2020-07-20 21:30,2020,Falcon 9,Space Launch Complex 40,1,98
+2020-08-07 05:12,2020,Falcon 9,Launch Complex 39A,1,99
+2020-08-18 14:31,2020,Falcon 9,Space Launch Complex 40,1,100
+2020-08-30 23:18,2020,Falcon 9,Space Launch Complex 40,1,101
+2020-09-03 12:46,2020,Falcon 9,Launch Complex 39A,1,102
+2020-10-06 11:29,2020,Falcon 9,Launch Complex 39A,1,103
+2020-10-18 12:25,2020,Falcon 9,Launch Complex 39A,1,104
+2020-10-24 15:31,2020,Falcon 9,Space Launch Complex 40,1,105
+2020-11-05 23:24,2020,Falcon 9,Space Launch Complex 40,1,106
+2020-11-16 00:27,2020,Falcon 9,Launch Complex 39A,1,107
+2020-11-21 17:17,2020,Falcon 9,Space Launch Complex 4E,1,108
+2020-11-25 02:13,2020,Falcon 9,Space Launch Complex 40,1,109
+2020-12-06 16:17,2020,Falcon 9,Launch Complex 39A,1,110
+2020-12-13 17:30,2020,Falcon 9,Space Launch Complex 40,1,111
+2020-12-19 14:00,2020,Falcon 9,Launch Complex 39A,1,112
+2021-01-08 02:15,2021,Falcon 9,Space Launch Complex 40,1,113
+2021-01-20 13:02,2021,Falcon 9,Launch Complex 39A,1,114
+2021-01-24 15:00,2021,Falcon 9,Space Launch Complex 40,1,115
+2021-02-04 06:19,2021,Falcon 9,Space Launch Complex 40,1,116
+2021-02-16 03:59,2021,Falcon 9,Space Launch Complex 40,1,117
+2021-03-04 08:24,2021,Falcon 9,Launch Complex 39A,1,118
+2021-03-11 08:13,2021,Falcon 9,Space Launch Complex 40,1,119
+2021-03-14 10:01,2021,Falcon 9,Launch Complex 39A,1,120
+2021-03-24 08:28,2021,Falcon 9,Space Launch Complex 40,1,121
+2021-04-07 16:34,2021,Falcon 9,Space Launch Complex 40,1,122
+2021-04-23 09:49,2021,Falcon 9,Launch Complex 39A,1,123
+2021-04-29 03:44,2021,Falcon 9,Space Launch Complex 40,1,124
+2021-05-04 19:01,2021,Falcon 9,Launch Complex 39A,1,125
+2021-05-09 06:42,2021,Falcon 9,Space Launch Complex 40,1,126
+2021-05-15 22:54,2021,Falcon 9,Launch Complex 39A,1,127
+2021-05-26 18:59,2021,Falcon 9,Space Launch Complex 40,1,128
+2021-06-03 17:29,2021,Falcon 9,Launch Complex 39A,1,129
+2021-06-06 04:26,2021,Falcon 9,Space Launch Complex 40,1,130
+2021-06-17 16:09,2021,Falcon 9,Space Launch Complex 40,1,131
+2021-06-30 19:31,2021,Falcon 9,Space Launch Complex 40,1,132
+2021-08-29 07:14,2021,Falcon 9,Launch Complex 39A,1,133
+2021-09-14 03:55,2021,Falcon 9,Space Launch Complex 4E,1,134
+2021-09-16 00:02,2021,Falcon 9,Launch Complex 39A,1,135
+2021-11-11 02:03,2021,Falcon 9,Launch Complex 39A,1,136
+2021-11-13 12:40,2021,Falcon 9,Space Launch Complex 40,1,137
+2021-11-24 06:20,2021,Falcon 9,Space Launch Complex 4E,1,138
+2021-12-01 23:20,2021,Falcon 9,Space Launch Complex 40,1,139
+2021-12-09 06:00,2021,Falcon 9,Launch Complex 39A,1,140
+2021-12-18 12:41,2021,Falcon 9,Space Launch Complex 4E,1,141
+2021-12-19 03:58,2021,Falcon 9,Space Launch Complex 40,1,142
+2021-12-21 10:06,2021,Falcon 9,Launch Complex 39A,1,143
+2022-01-06 21:49,2022,Falcon 9,Launch Complex 39A,1,144
+2022-01-13 15:25,2022,Falcon 9,Space Launch Complex 40,1,145
+2022-01-19 00:04,2022,Falcon 9,Launch Complex 39A,1,146
+2022-01-31 23:11,2022,Falcon 9,Space Launch Complex 40,1,147
+2022-02-02 20:18,2022,Falcon 9,Space Launch Complex 4E,1,148
+2022-02-03 18:13,2022,Falcon 9,Launch Complex 39A,1,149
+2022-02-21 14:44,2022,Falcon 9,Space Launch Complex 40,1,150
+2022-02-25 17:12,2022,Falcon 9,Space Launch Complex 4E,1,151
+2022-03-03 14:35,2022,Falcon 9,Launch Complex 39A,1,152
+2022-03-09 13:45,2022,Falcon 9,Space Launch Complex 40,1,153
+2022-03-19 03:24,2022,Falcon 9,Space Launch Complex 40,1,154
+2022-04-01 16:24,2022,Falcon 9,Space Launch Complex 40,1,155
+2022-04-08 15:17,2022,Falcon 9,Launch Complex 39A,1,156
+2022-04-17 13:13,2022,Falcon 9,Space Launch Complex 4E,1,157
+2022-04-21 15:16,2022,Falcon 9,Space Launch Complex 40,1,158
+2022-04-27 07:52,2022,Falcon 9,Launch Complex 39A,1,159
+2022-04-29 21:27,2022,Falcon 9,Space Launch Complex 40,1,160
+2022-05-06 09:42,2022,Falcon 9,Launch Complex 39A,1,161
+2022-05-13 22:07,2022,Falcon 9,Space Launch Complex 4E,1,162
+2022-05-14 20:40,2022,Falcon 9,Space Launch Complex 40,1,163
+2022-05-18 10:40,2022,Falcon 9,Launch Complex 39A,1,164
+2022-05-25 18:27,2022,Falcon 9,Space Launch Complex 40,1,165
+2022-06-08 21:04,2022,Falcon 9,Space Launch Complex 40,1,166
+2022-06-01 17:08,2022,Falcon 9,Launch Complex 39A,1,167
+2022-06-18 14:19,2022,Falcon 9,Space Launch Complex 4E,1,168
+2022-06-19 04:27,2022,Falcon 9,Space Launch Complex 40,1,169
+2022-06-29 21:04,2022,Falcon 9,Space Launch Complex 40,1,170
+2022-07-07 13:11,2022,Falcon 9,Space Launch Complex 40,1,171
+2022-07-11 01:39,2022,Falcon 9,Space Launch Complex 4E,-1,172
+2022-07-15 00:44,2022,Falcon 9,Launch Complex 39A,1,173
+2022-07-17 14:50,2022,Falcon 9,Space Launch Complex 40,1,174
+2022-07-21 17:13,2022,Falcon 9,Space Launch Complex 4E,1,175
+2022-07-24 00:00,2022,Falcon 9,Space Launch Complex 40,1,176
+2022-08-04 23:08,2022,Falcon 9,Space Launch Complex 40,1,177
+2022-08-09 22:57,2022,Falcon 9,Launch Complex 39A,1,178
+2022-08-12 21:30,2022,Falcon 9,Space Launch Complex 4E,1,179
+2022-08-19 19:24,2022,Falcon 9,Space Launch Complex 40,1,180
+2022-08-28 02:22,2022,Falcon 9,Launch Complex 39A,1,181
+2022-08-31 05:40,2022,Falcon 9,Space Launch Complex 4E,1,182
+2022-09-05 02:09,2022,Falcon 9,Space Launch Complex 40,1,183
+2022-09-11 01:10,2022,Falcon 9,Launch Complex 39A,1,184
+2022-09-17 01:05,2022,Falcon 9,Space Launch Complex 40,1,185
+2022-09-24 23:30,2022,Falcon 9,Space Launch Complex 40,1,186
+2022-10-05 16:00,2022,Falcon 9,Launch Complex 39A,1,187
+2022-11-01 13:41,2022,Falcon Heavy,Launch Complex 39A,-1,188
+2022-10-20 14:50,2022,Falcon 9,Space Launch Complex 40,-1,188
+2022-10-08 23:05,2022,Falcon 9,Space Launch Complex 40,-1,188
+2022-10-15 05:22,2022,Falcon 9,Space Launch Complex 40,-1,188
+2022-11-03 03:24,2022,Falcon 9,Space Launch Complex 40,-1,189
+2022-11-08 00:00,2022,Falcon 9,Space Launch Complex 40,-1,191
+2022-11-15 00:00,2022,Falcon 9,Space Launch Complex 40,-1,192
+2022-11-22 00:00,2022,Falcon 9,Space Launch Complex 40,-1,193
+2022-11-18 22:00,2022,Falcon 9,Launch Complex 39A,-1,194
+2022-11-01 00:00,2022,Falcon 9,Space Launch Complex 40,-1,195
+2022-11-01 00:00,2022,Falcon 9,Space Launch Complex 40,-1,196
+2022-12-05 00:00,2022,Falcon 9,Space Launch Complex 4E,-1,197
+2022-11-01 00:00,2022,Falcon 9,Space Launch Complex 40,-1,198
+2022-12-01 00:00,2022,Falcon 9,Space Launch Complex 40,-1,198
+2022-12-01 00:00,2022,Falcon 9,Space Launch Complex 4E,-1,199
+2022-12-01 00:00,2022,Falcon 9,Space Launch Complex 40,-1,200
+2022-12-01 00:00,2022,Falcon Heavy,Launch Complex 39A,-1,202
+2022-12-01 00:00,2022,Falcon 9,Space Launch Complex 40,-1,203
