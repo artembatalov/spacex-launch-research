@@ -1,419 +1,419 @@
 date,year,rocket_name,launchpad_name,success,flight_number
-2025-12-17 15:27,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,1
-2025-12-17 13:42,2025,Falcon 9 Block 5,Launch Complex 39A,1,2
-2025-12-15 05:25,2025,Falcon 9 Block 5,Space Launch Complex 40,1,3
-2025-12-14 05:49,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,4
-2025-12-11 22:01,2025,Falcon 9 Block 5,Space Launch Complex 40,1,5
-2025-12-10 11:40,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,6
-2025-12-09 19:16,2025,Falcon 9 Block 5,Space Launch Complex 40,1,7
-2025-12-08 22:26,2025,Falcon 9 Block 5,Launch Complex 39A,1,8
-2025-12-07 17:58,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,9
-2025-12-04 20:42,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,10
-2025-12-02 22:18,2025,Falcon 9 Block 5,Space Launch Complex 40,1,11
-2025-12-02 05:28,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,12
-2025-12-01 07:44,2025,Falcon 9 Block 5,Launch Complex 39A,1,13
-2025-11-28 18:44,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,14
-2025-11-23 08:48,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,15
-2025-11-22 07:53,2025,Falcon 9 Block 5,Space Launch Complex 40,1,16
-2025-11-21 03:39,2025,Falcon 9 Block 5,Launch Complex 39A,1,17
-2025-11-19 00:12,2025,Falcon 9 Block 5,Space Launch Complex 40,1,18
-2025-11-17 05:21,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,19
-2025-11-15 06:44,2025,Falcon 9 Block 5,Space Launch Complex 40,1,20
-2025-11-15 03:08,2025,Falcon 9 Block 5,Launch Complex 39A,1,21
-2025-11-11 03:21,2025,Falcon 9 Block 5,Space Launch Complex 40,1,22
-2025-11-09 08:10,2025,Falcon 9 Block 5,Launch Complex 39A,1,23
-2025-11-06 21:13,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,24
-2025-11-06 01:31,2025,Falcon 9 Block 5,Space Launch Complex 40,1,25
-2025-11-02 05:09,2025,Falcon 9 Block 5,Space Launch Complex 40,1,26
-2025-10-31 20:41,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,27
-2025-10-29 16:35,2025,Falcon 9 Block 5,Space Launch Complex 40,1,28
-2025-10-28 00:43,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,29
-2025-10-26 15:00,2025,Falcon 9 Block 5,Space Launch Complex 40,1,30
-2025-10-25 14:20,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,31
-2025-10-24 01:30,2025,Falcon 9 Block 5,Space Launch Complex 40,1,32
-2025-10-22 14:16,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,33
-2025-10-19 19:24,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,34
-2025-10-19 17:39,2025,Falcon 9 Block 5,Space Launch Complex 40,1,35
-2025-10-16 09:27,2025,Falcon 9 Block 5,Space Launch Complex 40,1,36
-2025-10-15 23:06,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,37
-2025-10-14 01:58,2025,Falcon 9 Block 5,Space Launch Complex 40,1,38
-2025-10-13 23:23,2025,Starship,Orbital Launch Pad 1,1,39
-2025-10-08 03:54,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,40
-2025-10-07 06:46,2025,Falcon 9 Block 5,Space Launch Complex 40,1,41
-2025-10-03 14:06,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,42
-2025-09-29 02:04,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,43
-2025-09-26 04:26,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,44
-2025-09-25 08:39,2025,Falcon 9 Block 5,Space Launch Complex 40,1,45
-2025-09-24 11:30,2025,Falcon 9 Block 5,Launch Complex 39A,1,46
-2025-09-22 17:38,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,47
-2025-09-21 10:53,2025,Falcon 9 Block 5,Space Launch Complex 40,1,48
-2025-09-19 16:31,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,49
-2025-09-18 09:30,2025,Falcon 9 Block 5,Space Launch Complex 40,1,50
-2025-09-14 22:11,2025,Falcon 9 Block 5,Space Launch Complex 40,1,51
-2025-09-13 17:55,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,52
-2025-09-12 01:56,2025,Falcon 9 Block 5,Space Launch Complex 40,1,53
-2025-09-10 14:12,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,54
-2025-09-06 18:06,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,55
-2025-09-05 12:32,2025,Falcon 9 Block 5,Launch Complex 39A,1,56
-2025-09-03 11:56,2025,Falcon 9 Block 5,Space Launch Complex 40,1,57
-2025-09-03 03:51,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,58
-2025-08-31 11:49,2025,Falcon 9 Block 5,Space Launch Complex 40,1,59
-2025-08-30 04:59,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,60
-2025-08-28 08:12,2025,Falcon 9 Block 5,Launch Complex 39A,1,61
-2025-08-27 11:10,2025,Falcon 9 Block 5,Space Launch Complex 40,1,62
-2025-08-26 23:30,2025,Starship,Orbital Launch Pad 1,1,63
-2025-08-26 18:53,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,64
-2025-08-24 06:45,2025,Falcon 9 Block 5,Space Launch Complex 40,1,65
-2025-08-22 17:04,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,66
-2025-08-22 03:50,2025,Falcon 9 Block 5,Launch Complex 39A,1,67
-2025-08-18 16:26,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,68
-2025-08-14 12:29,2025,Falcon 9 Block 5,Space Launch Complex 40,1,69
-2025-08-14 05:05,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,70
-2025-08-11 12:35,2025,Falcon 9 Block 5,Space Launch Complex 40,1,71
-2025-08-04 07:57,2025,Falcon 9 Block 5,Space Launch Complex 40,1,72
-2025-08-01 15:43,2025,Falcon 9 Block 5,Launch Complex 39A,1,73
-2025-07-31 18:35,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,74
-2025-07-30 03:37,2025,Falcon 9 Block 5,Space Launch Complex 40,1,75
-2025-07-27 04:31,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,76
-2025-07-26 09:01,2025,Falcon 9 Block 5,Space Launch Complex 40,1,77
-2025-07-23 18:13,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,78
-2025-07-22 21:12,2025,Falcon 9 Block 5,Space Launch Complex 40,1,79
-2025-07-19 03:52,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,80
-2025-07-16 06:30,2025,Falcon 9 Block 5,Space Launch Complex 40,1,81
-2025-07-16 02:05,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,82
-2025-07-13 05:04,2025,Falcon 9 Block 5,Space Launch Complex 40,1,83
-2025-07-08 08:21,2025,Falcon 9 Block 5,Space Launch Complex 40,1,84
-2025-07-02 06:28,2025,Falcon 9 Block 5,Space Launch Complex 40,1,85
-2025-07-01 21:04,2025,Falcon 9 Block 5,Launch Complex 39A,1,86
-2025-06-28 17:13,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,87
-2025-06-28 04:26,2025,Falcon 9 Block 5,Space Launch Complex 40,1,88
-2025-06-25 19:54,2025,Falcon 9 Block 5,Space Launch Complex 40,1,89
-2025-06-25 06:31,2025,Falcon 9 Block 5,Launch Complex 39A,1,90
-2025-06-23 21:25,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,91
-2025-06-23 05:58,2025,Falcon 9 Block 5,Space Launch Complex 40,1,92
-2025-06-18 05:55,2025,Falcon 9 Block 5,Space Launch Complex 40,1,93
-2025-06-17 03:36,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,94
-2025-06-13 15:29,2025,Falcon 9 Block 5,Space Launch Complex 40,1,95
-2025-06-13 01:54,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,96
-2025-06-10 13:05,2025,Falcon 9 Block 5,Space Launch Complex 40,1,97
-2025-06-08 14:20,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,98
-2025-06-07 04:54,2025,Falcon 9 Block 5,Space Launch Complex 40,1,99
-2025-06-04 23:40,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,100
-2025-06-03 04:43,2025,Falcon 9 Block 5,Space Launch Complex 40,1,101
-2025-05-31 20:10,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,102
-2025-05-30 17:37,2025,Falcon 9 Block 5,Space Launch Complex 40,1,103
-2025-05-28 13:30,2025,Falcon 9 Block 5,Launch Complex 39A,1,104
-2025-05-27 23:36,2025,Starship,Orbital Launch Pad 1,0,105
-2025-05-27 16:57,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,106
-2025-05-24 17:19,2025,Falcon 9 Block 5,Space Launch Complex 40,1,107
-2025-05-23 22:32,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,108
-2025-05-21 03:19,2025,Falcon 9 Block 5,Space Launch Complex 40,1,109
-2025-05-16 13:43,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,110
-2025-05-14 16:38,2025,Falcon 9 Block 5,Space Launch Complex 40,1,111
-2025-05-13 05:02,2025,Falcon 9 Block 5,Launch Complex 39A,1,112
-2025-05-13 01:15,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,113
-2025-05-10 06:28,2025,Falcon 9 Block 5,Space Launch Complex 40,1,114
-2025-05-10 00:19,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,115
-2025-05-07 01:17,2025,Falcon 9 Block 5,Space Launch Complex 40,1,116
-2025-05-04 08:54,2025,Falcon 9 Block 5,Launch Complex 39A,1,117
-2025-05-02 01:51,2025,Falcon 9 Block 5,Space Launch Complex 40,1,118
-2025-04-29 02:34,2025,Falcon 9 Block 5,Launch Complex 39A,1,119
-2025-04-28 20:42,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,120
-2025-04-28 02:09,2025,Falcon 9 Block 5,Space Launch Complex 40,1,121
-2025-04-25 01:52,2025,Falcon 9 Block 5,Space Launch Complex 40,1,122
-2025-04-22 00:48,2025,Falcon 9 Block 5,Space Launch Complex 40,1,123
-2025-04-21 08:15,2025,Falcon 9 Block 5,Launch Complex 39A,1,124
-2025-04-20 12:29,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,125
-2025-04-14 04:00,2025,Falcon 9 Block 5,Space Launch Complex 40,1,126
-2025-04-13 00:53,2025,Falcon 9 Block 5,Launch Complex 39A,1,127
-2025-04-12 12:25,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,128
-2025-04-07 23:06,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,129
-2025-04-06 03:07,2025,Falcon 9 Block 5,Space Launch Complex 40,1,130
-2025-04-04 01:02,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,131
-2025-04-01 01:46,2025,Falcon 9 Block 5,Launch Complex 39A,1,132
-2025-03-31 19:52,2025,Falcon 9 Block 5,Space Launch Complex 40,1,133
-2025-03-26 22:11,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,134
-2025-03-24 17:48,2025,Falcon 9 Block 5,Space Launch Complex 40,1,135
-2025-03-21 06:49,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,136
-2025-03-18 19:57,2025,Falcon 9 Block 5,Space Launch Complex 40,1,137
-2025-03-15 11:35,2025,Falcon 9 Block 5,Space Launch Complex 40,1,138
-2025-03-15 06:43,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,139
-2025-03-14 23:03,2025,Falcon 9 Block 5,Launch Complex 39A,1,140
-2025-03-13 02:35,2025,Falcon 9 Block 5,Space Launch Complex 40,1,141
-2025-03-12 03:10,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,142
-2025-03-06 23:30,2025,Starship,Orbital Launch Pad 1,0,143
-2025-03-03 02:24,2025,Falcon 9 Block 5,Space Launch Complex 40,1,144
-2025-02-27 03:34,2025,Falcon 9 Block 5,Space Launch Complex 40,1,145
-2025-02-27 00:16,2025,Falcon 9 Block 5,Launch Complex 39A,1,146
-2025-02-23 01:38,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,147
-2025-02-21 15:19,2025,Falcon 9 Block 5,Space Launch Complex 40,1,148
-2025-02-18 23:21,2025,Falcon 9 Block 5,Space Launch Complex 40,1,149
-2025-02-15 06:14,2025,Falcon 9 Block 5,Space Launch Complex 40,1,150
-2025-02-11 18:53,2025,Falcon 9 Block 5,Space Launch Complex 40,1,151
-2025-02-11 02:09,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,152
-2025-02-08 19:18,2025,Falcon 9 Block 5,Space Launch Complex 40,1,153
-2025-02-04 23:13,2025,Falcon 9 Block 5,Launch Complex 39A,1,154
-2025-02-04 10:15,2025,Falcon 9 Block 5,Space Launch Complex 40,1,155
-2025-02-01 23:02,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,156
-2025-01-30 01:34,2025,Falcon 9 Block 5,Launch Complex 39A,1,157
-2025-01-27 22:05,2025,Falcon 9 Block 5,Space Launch Complex 40,1,158
-2025-01-24 14:07,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,159
-2025-01-21 15:45,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,160
-2025-01-21 05:24,2025,Falcon 9 Block 5,Launch Complex 39A,1,161
-2025-01-16 22:37,2025,Starship,Orbital Launch Pad 1,0,162
-2025-01-15 06:11,2025,Falcon 9 Block 5,Launch Complex 39A,1,163
-2025-01-14 19:09,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,164
-2025-01-13 16:47,2025,Falcon 9 Block 5,Space Launch Complex 40,1,165
-2025-01-10 19:11,2025,Falcon 9 Block 5,Space Launch Complex 40,1,166
-2025-01-10 03:53,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,167
-2025-01-08 15:27,2025,Falcon 9 Block 5,Launch Complex 39A,1,168
-2025-01-06 20:43,2025,Falcon 9 Block 5,Space Launch Complex 40,1,169
-2025-01-04 01:27,2025,Falcon 9 Block 5,Space Launch Complex 40,1,170
-2024-12-31 05:39,2024,Falcon 9 Block 5,Launch Complex 39A,1,171
-2024-12-29 05:00,2024,Falcon 9 Block 5,Space Launch Complex 40,1,172
-2024-12-29 01:58,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,173
-2024-12-23 05:35,2024,Falcon 9 Block 5,Launch Complex 39A,1,174
-2024-12-21 11:34,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,175
-2024-12-17 22:26,2024,Falcon 9 Block 5,Launch Complex 39A,1,176
-2024-12-17 13:19,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,177
-2024-12-17 00:52,2024,Falcon 9 Block 5,Space Launch Complex 40,1,178
-2024-12-13 21:55,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,179
-2024-12-08 05:12,2024,Falcon 9 Block 5,Space Launch Complex 40,1,180
-2024-12-05 16:10,2024,Falcon 9 Block 5,Launch Complex 39A,1,181
-2024-12-05 03:05,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,182
-2024-12-04 10:13,2024,Falcon 9 Block 5,Space Launch Complex 40,1,183
-2024-11-30 08:10,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,184
-2024-11-30 05:00,2024,Falcon 9 Block 5,Space Launch Complex 40,1,185
-2024-11-27 04:41,2024,Falcon 9 Block 5,Launch Complex 39A,1,186
-2024-11-25 10:02,2024,Falcon 9 Block 5,Space Launch Complex 40,1,187
-2024-11-24 05:25,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,188
-2024-11-21 16:07,2024,Falcon 9 Block 5,Space Launch Complex 40,1,189
-2024-11-19 22:00,2024,Starship,Orbital Launch Pad 1,1,190
-2024-11-18 18:31,2024,Falcon 9 Block 5,Space Launch Complex 40,1,191
-2024-11-18 05:53,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,192
-2024-11-17 22:28,2024,Falcon 9 Block 5,Launch Complex 39A,1,193
-2024-11-14 13:21,2024,Falcon 9 Block 5,Space Launch Complex 40,1,194
-2024-11-14 05:23,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,195
-2024-11-11 21:28,2024,Falcon 9 Block 5,Space Launch Complex 40,1,196
-2024-11-11 17:22,2024,Falcon 9 Block 5,Launch Complex 39A,1,197
-2024-11-09 06:14,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,198
-2024-11-07 20:19,2024,Falcon 9 Block 5,Space Launch Complex 40,1,199
-2024-11-05 02:29,2024,Falcon 9 Block 5,Launch Complex 39A,1,200
-2024-10-30 21:10,2024,Falcon 9 Block 5,Space Launch Complex 40,1,201
-2024-10-30 12:07,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,202
-2024-10-26 21:47,2024,Falcon 9 Block 5,Space Launch Complex 40,1,203
-2024-10-24 17:14,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,204
-2024-10-23 21:47,2024,Falcon 9 Block 5,Space Launch Complex 40,1,205
-2024-10-20 05:13,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,206
-2024-10-18 23:31,2024,Falcon 9 Block 5,Space Launch Complex 40,1,207
-2024-10-15 08:21,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,208
-2024-10-15 06:10,2024,Falcon 9 Block 5,Space Launch Complex 40,1,209
-2024-10-14 16:06,2024,Falcon Heavy,Launch Complex 39A,1,210
-2024-10-13 12:25,2024,Starship,Orbital Launch Pad 1,1,211
-2024-10-07 14:52,2024,Falcon 9 Block 5,Space Launch Complex 40,1,212
-2024-09-28 17:17,2024,Falcon 9 Block 5,Space Launch Complex 40,1,213
-2024-09-25 04:01,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,214
-2024-09-20 13:50,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,215
-2024-09-17 22:50,2024,Falcon 9 Block 5,Space Launch Complex 40,1,216
-2024-09-13 01:45,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,217
-2024-09-12 08:52,2024,Falcon 9 Block 5,Space Launch Complex 40,1,218
-2024-09-10 09:23,2024,Falcon 9 Block 5,Launch Complex 39A,1,219
-2024-09-06 03:20,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,220
-2024-09-05 15:33,2024,Falcon 9 Block 5,Space Launch Complex 40,1,221
-2024-08-31 08:48,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,222
-2024-08-31 07:43,2024,Falcon 9 Block 5,Space Launch Complex 40,1,223
-2024-08-28 07:48,2024,Falcon 9 Block 5,Space Launch Complex 40,1,224
-2024-08-20 13:20,2024,Falcon 9 Block 5,Space Launch Complex 40,1,225
-2024-08-16 18:56,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,226
-2024-08-15 13:00,2024,Falcon 9 Block 5,Space Launch Complex 40,1,227
-2024-08-12 10:37,2024,Falcon 9 Block 5,Launch Complex 39A,1,228
-2024-08-12 02:02,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,229
-2024-08-10 12:50,2024,Falcon 9 Block 5,Space Launch Complex 40,1,230
-2024-08-04 15:02,2024,Falcon 9 Block 5,Space Launch Complex 40,1,231
-2024-08-04 07:24,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,232
-2024-08-02 05:01,2024,Falcon 9 Block 5,Launch Complex 39A,1,233
-2024-07-28 09:22,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,234
-2024-07-28 05:09,2024,Falcon 9 Block 5,Space Launch Complex 40,1,235
-2024-07-27 05:45,2024,Falcon 9 Block 5,Launch Complex 39A,1,236
-2024-07-12 02:35,2024,Falcon 9 Block 5,Space Launch Complex 4E,0,237
-2024-07-08 23:30,2024,Falcon 9 Block 5,Space Launch Complex 40,1,238
-2024-07-03 08:55,2024,Falcon 9 Block 5,Space Launch Complex 40,1,239
-2024-06-29 03:14,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,240
-2024-06-27 11:14,2024,Falcon 9 Block 5,Space Launch Complex 40,1,241
-2024-06-25 21:26,2024,Falcon Heavy,Launch Complex 39A,1,242
-2024-06-24 03:47,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,243
-2024-06-23 17:15,2024,Falcon 9 Block 5,Space Launch Complex 40,1,244
-2024-06-20 21:35,2024,Falcon 9 Block 5,Space Launch Complex 40,1,245
-2024-06-19 03:40,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,246
-2024-06-08 12:58,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,247
-2024-06-08 01:56,2024,Falcon 9 Block 5,Space Launch Complex 40,1,248
-2024-06-06 12:50,2024,Starship,Orbital Launch Pad 1,1,249
-2024-06-05 02:16,2024,Falcon 9 Block 5,Space Launch Complex 40,1,250
-2024-06-01 02:37,2024,Falcon 9 Block 5,Space Launch Complex 40,1,251
-2024-05-28 22:20,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,252
-2024-05-28 14:24,2024,Falcon 9 Block 5,Space Launch Complex 40,1,253
-2024-05-24 02:45,2024,Falcon 9 Block 5,Launch Complex 39A,1,254
-2024-05-23 02:35,2024,Falcon 9 Block 5,Space Launch Complex 40,1,255
-2024-05-22 08:00,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,256
-2024-05-18 00:32,2024,Falcon 9 Block 5,Space Launch Complex 40,1,257
-2024-05-14 18:39,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,258
-2024-05-13 00:53,2024,Falcon 9 Block 5,Space Launch Complex 40,1,259
-2024-05-10 04:30,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,260
-2024-05-08 18:42,2024,Falcon 9 Block 5,Launch Complex 39A,1,261
-2024-05-06 18:14,2024,Falcon 9 Block 5,Space Launch Complex 40,1,262
-2024-05-03 02:37,2024,Falcon 9 Block 5,Space Launch Complex 40,1,263
-2024-05-02 18:36,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,264
-2024-04-28 22:08,2024,Falcon 9 Block 5,Space Launch Complex 40,1,265
-2024-04-28 00:34,2024,Falcon 9 Block 5,Launch Complex 39A,1,266
-2024-04-23 22:17,2024,Falcon 9 Block 5,Space Launch Complex 40,1,267
-2024-04-18 22:40,2024,Falcon 9 Block 5,Space Launch Complex 40,1,268
-2024-04-17 21:26,2024,Falcon 9 Block 5,Launch Complex 39A,1,269
-2024-04-13 01:40,2024,Falcon 9 Block 5,Space Launch Complex 40,1,270
-2024-04-11 14:25,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,271
-2024-04-10 05:40,2024,Falcon 9 Block 5,Space Launch Complex 40,1,272
-2024-04-07 23:16,2024,Falcon 9 Block 5,Launch Complex 39A,1,273
-2024-04-07 02:25,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,274
-2024-04-05 09:12,2024,Falcon 9 Block 5,Space Launch Complex 40,1,275
-2024-04-02 02:30,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,276
-2024-03-31 01:30,2024,Falcon 9 Block 5,Space Launch Complex 40,1,277
-2024-03-30 21:52,2024,Falcon 9 Block 5,Launch Complex 39A,1,278
-2024-03-25 23:42,2024,Falcon 9 Block 5,Space Launch Complex 40,1,279
-2024-03-24 03:09,2024,Falcon 9 Block 5,Launch Complex 39A,1,280
-2024-03-21 20:55,2024,Falcon 9 Block 5,Space Launch Complex 40,1,281
-2024-03-19 02:28,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,282
-2024-03-16 00:21,2024,Falcon 9 Block 5,Launch Complex 39A,1,283
-2024-03-14 13:25,2024,Starship,Orbital Launch Pad 1,1,284
-2024-03-11 04:09,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,285
-2024-03-10 23:05,2024,Falcon 9 Block 5,Space Launch Complex 40,1,286
-2024-03-04 23:56,2024,Falcon 9 Block 5,Space Launch Complex 40,1,287
-2024-03-04 22:05,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,288
-2024-03-04 03:53,2024,Falcon 9 Block 5,Launch Complex 39A,1,289
-2024-02-29 15:30,2024,Falcon 9 Block 5,Space Launch Complex 40,1,290
-2024-02-25 22:06,2024,Falcon 9 Block 5,Space Launch Complex 40,1,291
-2024-02-23 04:11,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,292
-2024-02-20 20:11,2024,Falcon 9 Block 5,Space Launch Complex 40,1,293
-2024-02-15 21:34,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,294
-2024-02-15 06:05,2024,Falcon 9 Block 5,Launch Complex 39A,1,295
-2024-02-14 22:30,2024,Falcon 9 Block 5,Space Launch Complex 40,1,296
-2024-02-10 00:34,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,297
-2024-02-08 06:33,2024,Falcon 9 Block 5,Space Launch Complex 40,1,298
-2024-01-30 17:07,2024,Falcon 9 Block 5,Space Launch Complex 40,1,299
-2024-01-29 05:57,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,300
-2024-01-29 01:10,2024,Falcon 9 Block 5,Launch Complex 39A,1,301
-2024-01-24 00:35,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,302
-2024-01-18 21:49,2024,Falcon 9 Block 5,Launch Complex 39A,1,303
-2024-01-15 01:52,2024,Falcon 9 Block 5,Space Launch Complex 40,1,304
-2024-01-14 08:59,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,305
-2024-01-07 22:35,2024,Falcon 9 Block 5,Space Launch Complex 40,1,306
-2024-01-03 23:04,2024,Falcon 9 Block 5,Space Launch Complex 40,1,307
-2024-01-03 03:44,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,308
-2023-12-29 04:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,309
-2023-12-29 01:07,2023,Falcon Heavy,Launch Complex 39A,1,310
-2023-12-24 13:11,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,311
-2023-12-23 05:33,2023,Falcon 9 Block 5,Space Launch Complex 40,1,312
-2023-12-19 04:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,313
-2023-12-08 08:03,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,314
-2023-12-07 05:07,2023,Falcon 9 Block 5,Space Launch Complex 40,1,315
-2023-12-03 04:00,2023,Falcon 9 Block 5,Space Launch Complex 40,1,316
-2023-12-01 18:19,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,317
-2023-11-28 04:20,2023,Falcon 9 Block 5,Space Launch Complex 40,1,318
-2023-11-22 07:47,2023,Falcon 9 Block 5,Space Launch Complex 40,1,319
-2023-11-20 10:30,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,320
-2023-11-18 13:02,2023,Starship,Orbital Launch Pad 1,0,321
-2023-11-18 05:05,2023,Falcon 9 Block 5,Space Launch Complex 40,1,322
-2023-11-12 21:08,2023,Falcon 9 Block 5,Space Launch Complex 40,1,323
-2023-11-11 18:49,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,324
-2023-11-10 01:28,2023,Falcon 9 Block 5,Launch Complex 39A,1,325
-2023-11-08 05:05,2023,Falcon 9 Block 5,Space Launch Complex 40,1,326
-2023-11-04 00:37,2023,Falcon 9 Block 5,Space Launch Complex 40,1,327
-2023-10-30 23:20,2023,Falcon 9 Block 5,Space Launch Complex 40,1,328
-2023-10-29 09:00,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,329
-2023-10-22 02:17,2023,Falcon 9 Block 5,Space Launch Complex 40,1,330
-2023-10-21 08:23,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,331
-2023-10-18 00:39,2023,Falcon 9 Block 5,Space Launch Complex 40,1,332
-2023-10-13 23:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,333
-2023-10-13 14:19,2023,Falcon Heavy,Launch Complex 39A,1,334
-2023-10-09 07:43,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,335
-2023-10-05 05:36,2023,Falcon 9 Block 5,Space Launch Complex 40,1,336
-2023-09-30 02:00,2023,Falcon 9 Block 5,Space Launch Complex 40,1,337
-2023-09-25 08:48,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,338
-2023-09-24 03:38,2023,Falcon 9 Block 5,Space Launch Complex 40,1,339
-2023-09-20 03:38,2023,Falcon 9 Block 5,Space Launch Complex 40,1,340
-2023-09-16 03:38,2023,Falcon 9 Block 5,Space Launch Complex 40,1,341
-2023-09-12 06:57,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,342
-2023-09-09 03:12,2023,Falcon 9 Block 5,Space Launch Complex 40,1,343
-2023-09-04 02:47,2023,Falcon 9 Block 5,Launch Complex 39A,1,344
-2023-09-02 14:25,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,345
-2023-09-01 02:21,2023,Falcon 9 Block 5,Space Launch Complex 40,1,346
-2023-08-27 01:05,2023,Falcon 9 Block 5,Space Launch Complex 40,1,347
-2023-08-26 07:27,2023,Falcon 9 Block 5,Launch Complex 39A,1,348
-2023-08-22 09:37,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,349
-2023-08-17 03:36,2023,Falcon 9 Block 5,Space Launch Complex 40,1,350
-2023-08-11 05:17,2023,Falcon 9 Block 5,Space Launch Complex 40,1,351
-2023-08-08 03:57,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,352
-2023-08-07 02:41,2023,Falcon 9 Block 5,Space Launch Complex 40,1,353
-2023-08-03 05:00,2023,Falcon 9 Block 5,Space Launch Complex 40,1,354
-2023-07-29 03:04,2023,Falcon Heavy,Launch Complex 39A,1,355
-2023-07-28 04:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,356
-2023-07-24 00:50,2023,Falcon 9 Block 5,Space Launch Complex 40,1,357
-2023-07-20 04:09,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,358
-2023-07-16 03:50,2023,Falcon 9 Block 5,Space Launch Complex 40,1,359
-2023-07-10 03:58,2023,Falcon 9 Block 5,Space Launch Complex 40,1,360
-2023-07-07 19:29,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,361
-2023-07-01 15:12,2023,Falcon 9 Block 5,Space Launch Complex 40,1,362
-2023-06-23 15:35,2023,Falcon 9 Block 5,Space Launch Complex 40,1,363
-2023-06-22 07:19,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,364
-2023-06-18 22:21,2023,Falcon 9 Block 5,Space Launch Complex 40,1,365
-2023-06-12 21:35,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,366
-2023-06-12 07:10,2023,Falcon 9 Block 5,Space Launch Complex 40,1,367
-2023-06-05 15:47,2023,Falcon 9 Block 5,Launch Complex 39A,1,368
-2023-06-04 12:20,2023,Falcon 9 Block 5,Space Launch Complex 40,1,369
-2023-05-31 06:02,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,370
-2023-05-27 04:30,2023,Falcon 9 Block 5,Space Launch Complex 40,1,371
-2023-05-21 21:37,2023,Falcon 9 Block 5,Launch Complex 39A,1,372
-2023-05-20 13:16,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,373
-2023-05-19 06:19,2023,Falcon 9 Block 5,Space Launch Complex 40,1,374
-2023-05-14 05:03,2023,Falcon 9 Block 5,Space Launch Complex 40,1,375
-2023-05-10 20:09,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,376
-2023-05-04 07:31,2023,Falcon 9 Block 5,Space Launch Complex 40,1,377
-2023-05-01 00:26,2023,Falcon Heavy,Launch Complex 39A,1,378
-2023-04-28 22:12,2023,Falcon 9 Block 5,Space Launch Complex 40,1,379
-2023-04-27 13:40,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,380
-2023-04-20 13:33,2023,Starship,Orbital Launch Pad 1,0,381
-2023-04-19 14:31,2023,Falcon 9 Block 5,Space Launch Complex 40,1,382
-2023-04-15 06:47,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,383
-2023-04-07 04:30,2023,Falcon 9 Block 5,Space Launch Complex 40,1,384
-2023-04-02 14:29,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,385
-2023-03-29 20:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,386
-2023-03-24 15:43,2023,Falcon 9 Block 5,Space Launch Complex 40,1,387
-2023-03-17 23:38,2023,Falcon 9 Block 5,Space Launch Complex 40,1,388
-2023-03-17 19:26,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,389
-2023-03-15 00:30,2023,Falcon 9 Block 5,Launch Complex 39A,1,390
-2023-03-09 19:13,2023,Falcon 9 Block 5,Space Launch Complex 40,1,391
-2023-03-03 18:38,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,392
-2023-03-02 05:34,2023,Falcon 9 Block 5,Launch Complex 39A,1,393
-2023-02-27 23:13,2023,Falcon 9 Block 5,Space Launch Complex 40,1,394
-2023-02-18 03:59,2023,Falcon 9 Block 5,Space Launch Complex 40,1,395
-2023-02-17 19:12,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,396
-2023-02-12 05:10,2023,Falcon 9 Block 5,Space Launch Complex 40,1,397
-2023-02-07 01:32,2023,Falcon 9 Block 5,Space Launch Complex 40,1,398
-2023-02-02 07:58,2023,Falcon 9 Block 5,Launch Complex 39A,1,399
-2023-01-31 16:15,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,400
-2023-01-26 09:32,2023,Falcon 9 Block 5,Space Launch Complex 40,1,401
-2023-01-19 15:43,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,402
-2023-01-18 12:24,2023,Falcon 9 Block 5,Space Launch Complex 40,1,403
-2023-01-15 22:56,2023,Falcon Heavy,Launch Complex 39A,1,404
-2023-01-10 04:50,2023,Falcon 9 Block 5,Space Launch Complex 40,1,405
-2023-01-03 14:55,2023,Falcon 9 Block 5,Space Launch Complex 40,1,406
-2022-12-30 07:38,2022,Falcon 9 Block 5,Space Launch Complex 4E,1,407
-2022-12-28 09:34,2022,Falcon 9 Block 5,Space Launch Complex 40,1,408
-2022-12-17 21:32,2022,Falcon 9 Block 5,Launch Complex 39A,1,409
-2022-12-16 22:48,2022,Falcon 9 Block 5,Space Launch Complex 40,1,410
-2022-12-16 11:46,2022,Falcon 9 Block 5,Space Launch Complex 4E,1,411
-2022-12-11 07:38,2022,Falcon 9 Block 5,Space Launch Complex 40,1,412
-2022-12-08 22:27,2022,Falcon 9 Block 5,Launch Complex 39A,1,413
-2022-11-26 19:20,2022,Falcon 9 Block 5,Launch Complex 39A,1,414
-2022-11-23 02:57,2022,Falcon 9 Block 5,Space Launch Complex 40,1,415
-2022-11-12 16:06,2022,Falcon 9 Block 5,Space Launch Complex 40,1,416
-2022-11-03 05:22,2022,Falcon 9 Block 5,Space Launch Complex 40,1,417
-2022-11-01 13:41,2022,Falcon Heavy,Launch Complex 39A,1,418
+2022-11-01 13:41,2022,Falcon Heavy,Launch Complex 39A,1,1
+2022-11-03 05:22,2022,Falcon 9 Block 5,Space Launch Complex 40,1,2
+2022-11-12 16:06,2022,Falcon 9 Block 5,Space Launch Complex 40,1,3
+2022-11-23 02:57,2022,Falcon 9 Block 5,Space Launch Complex 40,1,4
+2022-11-26 19:20,2022,Falcon 9 Block 5,Launch Complex 39A,1,5
+2022-12-08 22:27,2022,Falcon 9 Block 5,Launch Complex 39A,1,6
+2022-12-11 07:38,2022,Falcon 9 Block 5,Space Launch Complex 40,1,7
+2022-12-16 11:46,2022,Falcon 9 Block 5,Space Launch Complex 4E,1,8
+2022-12-16 22:48,2022,Falcon 9 Block 5,Space Launch Complex 40,1,9
+2022-12-17 21:32,2022,Falcon 9 Block 5,Launch Complex 39A,1,10
+2022-12-28 09:34,2022,Falcon 9 Block 5,Space Launch Complex 40,1,11
+2022-12-30 07:38,2022,Falcon 9 Block 5,Space Launch Complex 4E,1,12
+2023-01-03 14:55,2023,Falcon 9 Block 5,Space Launch Complex 40,1,13
+2023-01-10 04:50,2023,Falcon 9 Block 5,Space Launch Complex 40,1,14
+2023-01-15 22:56,2023,Falcon Heavy,Launch Complex 39A,1,15
+2023-01-18 12:24,2023,Falcon 9 Block 5,Space Launch Complex 40,1,16
+2023-01-19 15:43,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,17
+2023-01-26 09:32,2023,Falcon 9 Block 5,Space Launch Complex 40,1,18
+2023-01-31 16:15,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,19
+2023-02-02 07:58,2023,Falcon 9 Block 5,Launch Complex 39A,1,20
+2023-02-07 01:32,2023,Falcon 9 Block 5,Space Launch Complex 40,1,21
+2023-02-12 05:10,2023,Falcon 9 Block 5,Space Launch Complex 40,1,22
+2023-02-17 19:12,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,23
+2023-02-18 03:59,2023,Falcon 9 Block 5,Space Launch Complex 40,1,24
+2023-02-27 23:13,2023,Falcon 9 Block 5,Space Launch Complex 40,1,25
+2023-03-02 05:34,2023,Falcon 9 Block 5,Launch Complex 39A,1,26
+2023-03-03 18:38,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,27
+2023-03-09 19:13,2023,Falcon 9 Block 5,Space Launch Complex 40,1,28
+2023-03-15 00:30,2023,Falcon 9 Block 5,Launch Complex 39A,1,29
+2023-03-17 19:26,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,30
+2023-03-17 23:38,2023,Falcon 9 Block 5,Space Launch Complex 40,1,31
+2023-03-24 15:43,2023,Falcon 9 Block 5,Space Launch Complex 40,1,32
+2023-03-29 20:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,33
+2023-04-02 14:29,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,34
+2023-04-07 04:30,2023,Falcon 9 Block 5,Space Launch Complex 40,1,35
+2023-04-15 06:47,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,36
+2023-04-19 14:31,2023,Falcon 9 Block 5,Space Launch Complex 40,1,37
+2023-04-20 13:33,2023,Starship,Orbital Launch Pad 1,0,38
+2023-04-27 13:40,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,39
+2023-04-28 22:12,2023,Falcon 9 Block 5,Space Launch Complex 40,1,40
+2023-05-01 00:26,2023,Falcon Heavy,Launch Complex 39A,1,41
+2023-05-04 07:31,2023,Falcon 9 Block 5,Space Launch Complex 40,1,42
+2023-05-10 20:09,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,43
+2023-05-14 05:03,2023,Falcon 9 Block 5,Space Launch Complex 40,1,44
+2023-05-19 06:19,2023,Falcon 9 Block 5,Space Launch Complex 40,1,45
+2023-05-20 13:16,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,46
+2023-05-21 21:37,2023,Falcon 9 Block 5,Launch Complex 39A,1,47
+2023-05-27 04:30,2023,Falcon 9 Block 5,Space Launch Complex 40,1,48
+2023-05-31 06:02,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,49
+2023-06-04 12:20,2023,Falcon 9 Block 5,Space Launch Complex 40,1,50
+2023-06-05 15:47,2023,Falcon 9 Block 5,Launch Complex 39A,1,51
+2023-06-12 07:10,2023,Falcon 9 Block 5,Space Launch Complex 40,1,52
+2023-06-12 21:35,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,53
+2023-06-18 22:21,2023,Falcon 9 Block 5,Space Launch Complex 40,1,54
+2023-06-22 07:19,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,55
+2023-06-23 15:35,2023,Falcon 9 Block 5,Space Launch Complex 40,1,56
+2023-07-01 15:12,2023,Falcon 9 Block 5,Space Launch Complex 40,1,57
+2023-07-07 19:29,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,58
+2023-07-10 03:58,2023,Falcon 9 Block 5,Space Launch Complex 40,1,59
+2023-07-16 03:50,2023,Falcon 9 Block 5,Space Launch Complex 40,1,60
+2023-07-20 04:09,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,61
+2023-07-24 00:50,2023,Falcon 9 Block 5,Space Launch Complex 40,1,62
+2023-07-28 04:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,63
+2023-07-29 03:04,2023,Falcon Heavy,Launch Complex 39A,1,64
+2023-08-03 05:00,2023,Falcon 9 Block 5,Space Launch Complex 40,1,65
+2023-08-07 02:41,2023,Falcon 9 Block 5,Space Launch Complex 40,1,66
+2023-08-08 03:57,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,67
+2023-08-11 05:17,2023,Falcon 9 Block 5,Space Launch Complex 40,1,68
+2023-08-17 03:36,2023,Falcon 9 Block 5,Space Launch Complex 40,1,69
+2023-08-22 09:37,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,70
+2023-08-26 07:27,2023,Falcon 9 Block 5,Launch Complex 39A,1,71
+2023-08-27 01:05,2023,Falcon 9 Block 5,Space Launch Complex 40,1,72
+2023-09-01 02:21,2023,Falcon 9 Block 5,Space Launch Complex 40,1,73
+2023-09-02 14:25,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,74
+2023-09-04 02:47,2023,Falcon 9 Block 5,Launch Complex 39A,1,75
+2023-09-09 03:12,2023,Falcon 9 Block 5,Space Launch Complex 40,1,76
+2023-09-12 06:57,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,77
+2023-09-16 03:38,2023,Falcon 9 Block 5,Space Launch Complex 40,1,78
+2023-09-20 03:38,2023,Falcon 9 Block 5,Space Launch Complex 40,1,79
+2023-09-24 03:38,2023,Falcon 9 Block 5,Space Launch Complex 40,1,80
+2023-09-25 08:48,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,81
+2023-09-30 02:00,2023,Falcon 9 Block 5,Space Launch Complex 40,1,82
+2023-10-05 05:36,2023,Falcon 9 Block 5,Space Launch Complex 40,1,83
+2023-10-09 07:43,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,84
+2023-10-13 14:19,2023,Falcon Heavy,Launch Complex 39A,1,85
+2023-10-13 23:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,86
+2023-10-18 00:39,2023,Falcon 9 Block 5,Space Launch Complex 40,1,87
+2023-10-21 08:23,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,88
+2023-10-22 02:17,2023,Falcon 9 Block 5,Space Launch Complex 40,1,89
+2023-10-29 09:00,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,90
+2023-10-30 23:20,2023,Falcon 9 Block 5,Space Launch Complex 40,1,91
+2023-11-04 00:37,2023,Falcon 9 Block 5,Space Launch Complex 40,1,92
+2023-11-08 05:05,2023,Falcon 9 Block 5,Space Launch Complex 40,1,93
+2023-11-10 01:28,2023,Falcon 9 Block 5,Launch Complex 39A,1,94
+2023-11-11 18:49,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,95
+2023-11-12 21:08,2023,Falcon 9 Block 5,Space Launch Complex 40,1,96
+2023-11-18 05:05,2023,Falcon 9 Block 5,Space Launch Complex 40,1,97
+2023-11-18 13:02,2023,Starship,Orbital Launch Pad 1,0,98
+2023-11-20 10:30,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,99
+2023-11-22 07:47,2023,Falcon 9 Block 5,Space Launch Complex 40,1,100
+2023-11-28 04:20,2023,Falcon 9 Block 5,Space Launch Complex 40,1,101
+2023-12-01 18:19,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,102
+2023-12-03 04:00,2023,Falcon 9 Block 5,Space Launch Complex 40,1,103
+2023-12-07 05:07,2023,Falcon 9 Block 5,Space Launch Complex 40,1,104
+2023-12-08 08:03,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,105
+2023-12-19 04:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,106
+2023-12-23 05:33,2023,Falcon 9 Block 5,Space Launch Complex 40,1,107
+2023-12-24 13:11,2023,Falcon 9 Block 5,Space Launch Complex 4E,1,108
+2023-12-29 01:07,2023,Falcon Heavy,Launch Complex 39A,1,109
+2023-12-29 04:01,2023,Falcon 9 Block 5,Space Launch Complex 40,1,110
+2024-01-03 03:44,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,111
+2024-01-03 23:04,2024,Falcon 9 Block 5,Space Launch Complex 40,1,112
+2024-01-07 22:35,2024,Falcon 9 Block 5,Space Launch Complex 40,1,113
+2024-01-14 08:59,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,114
+2024-01-15 01:52,2024,Falcon 9 Block 5,Space Launch Complex 40,1,115
+2024-01-18 21:49,2024,Falcon 9 Block 5,Launch Complex 39A,1,116
+2024-01-24 00:35,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,117
+2024-01-29 01:10,2024,Falcon 9 Block 5,Launch Complex 39A,1,118
+2024-01-29 05:57,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,119
+2024-01-30 17:07,2024,Falcon 9 Block 5,Space Launch Complex 40,1,120
+2024-02-08 06:33,2024,Falcon 9 Block 5,Space Launch Complex 40,1,121
+2024-02-10 00:34,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,122
+2024-02-14 22:30,2024,Falcon 9 Block 5,Space Launch Complex 40,1,123
+2024-02-15 06:05,2024,Falcon 9 Block 5,Launch Complex 39A,1,124
+2024-02-15 21:34,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,125
+2024-02-20 20:11,2024,Falcon 9 Block 5,Space Launch Complex 40,1,126
+2024-02-23 04:11,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,127
+2024-02-25 22:06,2024,Falcon 9 Block 5,Space Launch Complex 40,1,128
+2024-02-29 15:30,2024,Falcon 9 Block 5,Space Launch Complex 40,1,129
+2024-03-04 03:53,2024,Falcon 9 Block 5,Launch Complex 39A,1,130
+2024-03-04 22:05,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,131
+2024-03-04 23:56,2024,Falcon 9 Block 5,Space Launch Complex 40,1,132
+2024-03-10 23:05,2024,Falcon 9 Block 5,Space Launch Complex 40,1,133
+2024-03-11 04:09,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,134
+2024-03-14 13:25,2024,Starship,Orbital Launch Pad 1,1,135
+2024-03-16 00:21,2024,Falcon 9 Block 5,Launch Complex 39A,1,136
+2024-03-19 02:28,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,137
+2024-03-21 20:55,2024,Falcon 9 Block 5,Space Launch Complex 40,1,138
+2024-03-24 03:09,2024,Falcon 9 Block 5,Launch Complex 39A,1,139
+2024-03-25 23:42,2024,Falcon 9 Block 5,Space Launch Complex 40,1,140
+2024-03-30 21:52,2024,Falcon 9 Block 5,Launch Complex 39A,1,141
+2024-03-31 01:30,2024,Falcon 9 Block 5,Space Launch Complex 40,1,142
+2024-04-02 02:30,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,143
+2024-04-05 09:12,2024,Falcon 9 Block 5,Space Launch Complex 40,1,144
+2024-04-07 02:25,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,145
+2024-04-07 23:16,2024,Falcon 9 Block 5,Launch Complex 39A,1,146
+2024-04-10 05:40,2024,Falcon 9 Block 5,Space Launch Complex 40,1,147
+2024-04-11 14:25,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,148
+2024-04-13 01:40,2024,Falcon 9 Block 5,Space Launch Complex 40,1,149
+2024-04-17 21:26,2024,Falcon 9 Block 5,Launch Complex 39A,1,150
+2024-04-18 22:40,2024,Falcon 9 Block 5,Space Launch Complex 40,1,151
+2024-04-23 22:17,2024,Falcon 9 Block 5,Space Launch Complex 40,1,152
+2024-04-28 00:34,2024,Falcon 9 Block 5,Launch Complex 39A,1,153
+2024-04-28 22:08,2024,Falcon 9 Block 5,Space Launch Complex 40,1,154
+2024-05-02 18:36,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,155
+2024-05-03 02:37,2024,Falcon 9 Block 5,Space Launch Complex 40,1,156
+2024-05-06 18:14,2024,Falcon 9 Block 5,Space Launch Complex 40,1,157
+2024-05-08 18:42,2024,Falcon 9 Block 5,Launch Complex 39A,1,158
+2024-05-10 04:30,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,159
+2024-05-13 00:53,2024,Falcon 9 Block 5,Space Launch Complex 40,1,160
+2024-05-14 18:39,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,161
+2024-05-18 00:32,2024,Falcon 9 Block 5,Space Launch Complex 40,1,162
+2024-05-22 08:00,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,163
+2024-05-23 02:35,2024,Falcon 9 Block 5,Space Launch Complex 40,1,164
+2024-05-24 02:45,2024,Falcon 9 Block 5,Launch Complex 39A,1,165
+2024-05-28 14:24,2024,Falcon 9 Block 5,Space Launch Complex 40,1,166
+2024-05-28 22:20,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,167
+2024-06-01 02:37,2024,Falcon 9 Block 5,Space Launch Complex 40,1,168
+2024-06-05 02:16,2024,Falcon 9 Block 5,Space Launch Complex 40,1,169
+2024-06-06 12:50,2024,Starship,Orbital Launch Pad 1,1,170
+2024-06-08 01:56,2024,Falcon 9 Block 5,Space Launch Complex 40,1,171
+2024-06-08 12:58,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,172
+2024-06-19 03:40,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,173
+2024-06-20 21:35,2024,Falcon 9 Block 5,Space Launch Complex 40,1,174
+2024-06-23 17:15,2024,Falcon 9 Block 5,Space Launch Complex 40,1,175
+2024-06-24 03:47,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,176
+2024-06-25 21:26,2024,Falcon Heavy,Launch Complex 39A,1,177
+2024-06-27 11:14,2024,Falcon 9 Block 5,Space Launch Complex 40,1,178
+2024-06-29 03:14,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,179
+2024-07-03 08:55,2024,Falcon 9 Block 5,Space Launch Complex 40,1,180
+2024-07-08 23:30,2024,Falcon 9 Block 5,Space Launch Complex 40,1,181
+2024-07-12 02:35,2024,Falcon 9 Block 5,Space Launch Complex 4E,0,182
+2024-07-27 05:45,2024,Falcon 9 Block 5,Launch Complex 39A,1,183
+2024-07-28 05:09,2024,Falcon 9 Block 5,Space Launch Complex 40,1,184
+2024-07-28 09:22,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,185
+2024-08-02 05:01,2024,Falcon 9 Block 5,Launch Complex 39A,1,186
+2024-08-04 07:24,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,187
+2024-08-04 15:02,2024,Falcon 9 Block 5,Space Launch Complex 40,1,188
+2024-08-10 12:50,2024,Falcon 9 Block 5,Space Launch Complex 40,1,189
+2024-08-12 02:02,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,190
+2024-08-12 10:37,2024,Falcon 9 Block 5,Launch Complex 39A,1,191
+2024-08-15 13:00,2024,Falcon 9 Block 5,Space Launch Complex 40,1,192
+2024-08-16 18:56,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,193
+2024-08-20 13:20,2024,Falcon 9 Block 5,Space Launch Complex 40,1,194
+2024-08-28 07:48,2024,Falcon 9 Block 5,Space Launch Complex 40,1,195
+2024-08-31 07:43,2024,Falcon 9 Block 5,Space Launch Complex 40,1,196
+2024-08-31 08:48,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,197
+2024-09-05 15:33,2024,Falcon 9 Block 5,Space Launch Complex 40,1,198
+2024-09-06 03:20,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,199
+2024-09-10 09:23,2024,Falcon 9 Block 5,Launch Complex 39A,1,200
+2024-09-12 08:52,2024,Falcon 9 Block 5,Space Launch Complex 40,1,201
+2024-09-13 01:45,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,202
+2024-09-17 22:50,2024,Falcon 9 Block 5,Space Launch Complex 40,1,203
+2024-09-20 13:50,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,204
+2024-09-25 04:01,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,205
+2024-09-28 17:17,2024,Falcon 9 Block 5,Space Launch Complex 40,1,206
+2024-10-07 14:52,2024,Falcon 9 Block 5,Space Launch Complex 40,1,207
+2024-10-13 12:25,2024,Starship,Orbital Launch Pad 1,1,208
+2024-10-14 16:06,2024,Falcon Heavy,Launch Complex 39A,1,209
+2024-10-15 06:10,2024,Falcon 9 Block 5,Space Launch Complex 40,1,210
+2024-10-15 08:21,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,211
+2024-10-18 23:31,2024,Falcon 9 Block 5,Space Launch Complex 40,1,212
+2024-10-20 05:13,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,213
+2024-10-23 21:47,2024,Falcon 9 Block 5,Space Launch Complex 40,1,214
+2024-10-24 17:14,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,215
+2024-10-26 21:47,2024,Falcon 9 Block 5,Space Launch Complex 40,1,216
+2024-10-30 12:07,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,217
+2024-10-30 21:10,2024,Falcon 9 Block 5,Space Launch Complex 40,1,218
+2024-11-05 02:29,2024,Falcon 9 Block 5,Launch Complex 39A,1,219
+2024-11-07 20:19,2024,Falcon 9 Block 5,Space Launch Complex 40,1,220
+2024-11-09 06:14,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,221
+2024-11-11 17:22,2024,Falcon 9 Block 5,Launch Complex 39A,1,222
+2024-11-11 21:28,2024,Falcon 9 Block 5,Space Launch Complex 40,1,223
+2024-11-14 05:23,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,224
+2024-11-14 13:21,2024,Falcon 9 Block 5,Space Launch Complex 40,1,225
+2024-11-17 22:28,2024,Falcon 9 Block 5,Launch Complex 39A,1,226
+2024-11-18 05:53,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,227
+2024-11-18 18:31,2024,Falcon 9 Block 5,Space Launch Complex 40,1,228
+2024-11-19 22:00,2024,Starship,Orbital Launch Pad 1,1,229
+2024-11-21 16:07,2024,Falcon 9 Block 5,Space Launch Complex 40,1,230
+2024-11-24 05:25,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,231
+2024-11-25 10:02,2024,Falcon 9 Block 5,Space Launch Complex 40,1,232
+2024-11-27 04:41,2024,Falcon 9 Block 5,Launch Complex 39A,1,233
+2024-11-30 05:00,2024,Falcon 9 Block 5,Space Launch Complex 40,1,234
+2024-11-30 08:10,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,235
+2024-12-04 10:13,2024,Falcon 9 Block 5,Space Launch Complex 40,1,236
+2024-12-05 03:05,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,237
+2024-12-05 16:10,2024,Falcon 9 Block 5,Launch Complex 39A,1,238
+2024-12-08 05:12,2024,Falcon 9 Block 5,Space Launch Complex 40,1,239
+2024-12-13 21:55,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,240
+2024-12-17 00:52,2024,Falcon 9 Block 5,Space Launch Complex 40,1,241
+2024-12-17 13:19,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,242
+2024-12-17 22:26,2024,Falcon 9 Block 5,Launch Complex 39A,1,243
+2024-12-21 11:34,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,244
+2024-12-23 05:35,2024,Falcon 9 Block 5,Launch Complex 39A,1,245
+2024-12-29 01:58,2024,Falcon 9 Block 5,Space Launch Complex 4E,1,246
+2024-12-29 05:00,2024,Falcon 9 Block 5,Space Launch Complex 40,1,247
+2024-12-31 05:39,2024,Falcon 9 Block 5,Launch Complex 39A,1,248
+2025-01-04 01:27,2025,Falcon 9 Block 5,Space Launch Complex 40,1,249
+2025-01-06 20:43,2025,Falcon 9 Block 5,Space Launch Complex 40,1,250
+2025-01-08 15:27,2025,Falcon 9 Block 5,Launch Complex 39A,1,251
+2025-01-10 03:53,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,252
+2025-01-10 19:11,2025,Falcon 9 Block 5,Space Launch Complex 40,1,253
+2025-01-13 16:47,2025,Falcon 9 Block 5,Space Launch Complex 40,1,254
+2025-01-14 19:09,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,255
+2025-01-15 06:11,2025,Falcon 9 Block 5,Launch Complex 39A,1,256
+2025-01-16 22:37,2025,Starship,Orbital Launch Pad 1,0,257
+2025-01-21 05:24,2025,Falcon 9 Block 5,Launch Complex 39A,1,258
+2025-01-21 15:45,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,259
+2025-01-24 14:07,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,260
+2025-01-27 22:05,2025,Falcon 9 Block 5,Space Launch Complex 40,1,261
+2025-01-30 01:34,2025,Falcon 9 Block 5,Launch Complex 39A,1,262
+2025-02-01 23:02,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,263
+2025-02-04 10:15,2025,Falcon 9 Block 5,Space Launch Complex 40,1,264
+2025-02-04 23:13,2025,Falcon 9 Block 5,Launch Complex 39A,1,265
+2025-02-08 19:18,2025,Falcon 9 Block 5,Space Launch Complex 40,1,266
+2025-02-11 02:09,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,267
+2025-02-11 18:53,2025,Falcon 9 Block 5,Space Launch Complex 40,1,268
+2025-02-15 06:14,2025,Falcon 9 Block 5,Space Launch Complex 40,1,269
+2025-02-18 23:21,2025,Falcon 9 Block 5,Space Launch Complex 40,1,270
+2025-02-21 15:19,2025,Falcon 9 Block 5,Space Launch Complex 40,1,271
+2025-02-23 01:38,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,272
+2025-02-27 00:16,2025,Falcon 9 Block 5,Launch Complex 39A,1,273
+2025-02-27 03:34,2025,Falcon 9 Block 5,Space Launch Complex 40,1,274
+2025-03-03 02:24,2025,Falcon 9 Block 5,Space Launch Complex 40,1,275
+2025-03-06 23:30,2025,Starship,Orbital Launch Pad 1,0,276
+2025-03-12 03:10,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,277
+2025-03-13 02:35,2025,Falcon 9 Block 5,Space Launch Complex 40,1,278
+2025-03-14 23:03,2025,Falcon 9 Block 5,Launch Complex 39A,1,279
+2025-03-15 06:43,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,280
+2025-03-15 11:35,2025,Falcon 9 Block 5,Space Launch Complex 40,1,281
+2025-03-18 19:57,2025,Falcon 9 Block 5,Space Launch Complex 40,1,282
+2025-03-21 06:49,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,283
+2025-03-24 17:48,2025,Falcon 9 Block 5,Space Launch Complex 40,1,284
+2025-03-26 22:11,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,285
+2025-03-31 19:52,2025,Falcon 9 Block 5,Space Launch Complex 40,1,286
+2025-04-01 01:46,2025,Falcon 9 Block 5,Launch Complex 39A,1,287
+2025-04-04 01:02,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,288
+2025-04-06 03:07,2025,Falcon 9 Block 5,Space Launch Complex 40,1,289
+2025-04-07 23:06,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,290
+2025-04-12 12:25,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,291
+2025-04-13 00:53,2025,Falcon 9 Block 5,Launch Complex 39A,1,292
+2025-04-14 04:00,2025,Falcon 9 Block 5,Space Launch Complex 40,1,293
+2025-04-20 12:29,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,294
+2025-04-21 08:15,2025,Falcon 9 Block 5,Launch Complex 39A,1,295
+2025-04-22 00:48,2025,Falcon 9 Block 5,Space Launch Complex 40,1,296
+2025-04-25 01:52,2025,Falcon 9 Block 5,Space Launch Complex 40,1,297
+2025-04-28 02:09,2025,Falcon 9 Block 5,Space Launch Complex 40,1,298
+2025-04-28 20:42,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,299
+2025-04-29 02:34,2025,Falcon 9 Block 5,Launch Complex 39A,1,300
+2025-05-02 01:51,2025,Falcon 9 Block 5,Space Launch Complex 40,1,301
+2025-05-04 08:54,2025,Falcon 9 Block 5,Launch Complex 39A,1,302
+2025-05-07 01:17,2025,Falcon 9 Block 5,Space Launch Complex 40,1,303
+2025-05-10 00:19,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,304
+2025-05-10 06:28,2025,Falcon 9 Block 5,Space Launch Complex 40,1,305
+2025-05-13 01:15,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,306
+2025-05-13 05:02,2025,Falcon 9 Block 5,Launch Complex 39A,1,307
+2025-05-14 16:38,2025,Falcon 9 Block 5,Space Launch Complex 40,1,308
+2025-05-16 13:43,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,309
+2025-05-21 03:19,2025,Falcon 9 Block 5,Space Launch Complex 40,1,310
+2025-05-23 22:32,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,311
+2025-05-24 17:19,2025,Falcon 9 Block 5,Space Launch Complex 40,1,312
+2025-05-27 16:57,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,313
+2025-05-27 23:36,2025,Starship,Orbital Launch Pad 1,0,314
+2025-05-28 13:30,2025,Falcon 9 Block 5,Launch Complex 39A,1,315
+2025-05-30 17:37,2025,Falcon 9 Block 5,Space Launch Complex 40,1,316
+2025-05-31 20:10,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,317
+2025-06-03 04:43,2025,Falcon 9 Block 5,Space Launch Complex 40,1,318
+2025-06-04 23:40,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,319
+2025-06-07 04:54,2025,Falcon 9 Block 5,Space Launch Complex 40,1,320
+2025-06-08 14:20,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,321
+2025-06-10 13:05,2025,Falcon 9 Block 5,Space Launch Complex 40,1,322
+2025-06-13 01:54,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,323
+2025-06-13 15:29,2025,Falcon 9 Block 5,Space Launch Complex 40,1,324
+2025-06-17 03:36,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,325
+2025-06-18 05:55,2025,Falcon 9 Block 5,Space Launch Complex 40,1,326
+2025-06-23 05:58,2025,Falcon 9 Block 5,Space Launch Complex 40,1,327
+2025-06-23 21:25,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,328
+2025-06-25 06:31,2025,Falcon 9 Block 5,Launch Complex 39A,1,329
+2025-06-25 19:54,2025,Falcon 9 Block 5,Space Launch Complex 40,1,330
+2025-06-28 04:26,2025,Falcon 9 Block 5,Space Launch Complex 40,1,331
+2025-06-28 17:13,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,332
+2025-07-01 21:04,2025,Falcon 9 Block 5,Launch Complex 39A,1,333
+2025-07-02 06:28,2025,Falcon 9 Block 5,Space Launch Complex 40,1,334
+2025-07-08 08:21,2025,Falcon 9 Block 5,Space Launch Complex 40,1,335
+2025-07-13 05:04,2025,Falcon 9 Block 5,Space Launch Complex 40,1,336
+2025-07-16 02:05,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,337
+2025-07-16 06:30,2025,Falcon 9 Block 5,Space Launch Complex 40,1,338
+2025-07-19 03:52,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,339
+2025-07-22 21:12,2025,Falcon 9 Block 5,Space Launch Complex 40,1,340
+2025-07-23 18:13,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,341
+2025-07-26 09:01,2025,Falcon 9 Block 5,Space Launch Complex 40,1,342
+2025-07-27 04:31,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,343
+2025-07-30 03:37,2025,Falcon 9 Block 5,Space Launch Complex 40,1,344
+2025-07-31 18:35,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,345
+2025-08-01 15:43,2025,Falcon 9 Block 5,Launch Complex 39A,1,346
+2025-08-04 07:57,2025,Falcon 9 Block 5,Space Launch Complex 40,1,347
+2025-08-11 12:35,2025,Falcon 9 Block 5,Space Launch Complex 40,1,348
+2025-08-14 05:05,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,349
+2025-08-14 12:29,2025,Falcon 9 Block 5,Space Launch Complex 40,1,350
+2025-08-18 16:26,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,351
+2025-08-22 03:50,2025,Falcon 9 Block 5,Launch Complex 39A,1,352
+2025-08-22 17:04,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,353
+2025-08-24 06:45,2025,Falcon 9 Block 5,Space Launch Complex 40,1,354
+2025-08-26 18:53,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,355
+2025-08-26 23:30,2025,Starship,Orbital Launch Pad 1,1,356
+2025-08-27 11:10,2025,Falcon 9 Block 5,Space Launch Complex 40,1,357
+2025-08-28 08:12,2025,Falcon 9 Block 5,Launch Complex 39A,1,358
+2025-08-30 04:59,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,359
+2025-08-31 11:49,2025,Falcon 9 Block 5,Space Launch Complex 40,1,360
+2025-09-03 03:51,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,361
+2025-09-03 11:56,2025,Falcon 9 Block 5,Space Launch Complex 40,1,362
+2025-09-05 12:32,2025,Falcon 9 Block 5,Launch Complex 39A,1,363
+2025-09-06 18:06,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,364
+2025-09-10 14:12,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,365
+2025-09-12 01:56,2025,Falcon 9 Block 5,Space Launch Complex 40,1,366
+2025-09-13 17:55,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,367
+2025-09-14 22:11,2025,Falcon 9 Block 5,Space Launch Complex 40,1,368
+2025-09-18 09:30,2025,Falcon 9 Block 5,Space Launch Complex 40,1,369
+2025-09-19 16:31,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,370
+2025-09-21 10:53,2025,Falcon 9 Block 5,Space Launch Complex 40,1,371
+2025-09-22 17:38,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,372
+2025-09-24 11:30,2025,Falcon 9 Block 5,Launch Complex 39A,1,373
+2025-09-25 08:39,2025,Falcon 9 Block 5,Space Launch Complex 40,1,374
+2025-09-26 04:26,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,375
+2025-09-29 02:04,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,376
+2025-10-03 14:06,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,377
+2025-10-07 06:46,2025,Falcon 9 Block 5,Space Launch Complex 40,1,378
+2025-10-08 03:54,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,379
+2025-10-13 23:23,2025,Starship,Orbital Launch Pad 1,1,380
+2025-10-14 01:58,2025,Falcon 9 Block 5,Space Launch Complex 40,1,381
+2025-10-15 23:06,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,382
+2025-10-16 09:27,2025,Falcon 9 Block 5,Space Launch Complex 40,1,383
+2025-10-19 17:39,2025,Falcon 9 Block 5,Space Launch Complex 40,1,384
+2025-10-19 19:24,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,385
+2025-10-22 14:16,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,386
+2025-10-24 01:30,2025,Falcon 9 Block 5,Space Launch Complex 40,1,387
+2025-10-25 14:20,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,388
+2025-10-26 15:00,2025,Falcon 9 Block 5,Space Launch Complex 40,1,389
+2025-10-28 00:43,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,390
+2025-10-29 16:35,2025,Falcon 9 Block 5,Space Launch Complex 40,1,391
+2025-10-31 20:41,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,392
+2025-11-02 05:09,2025,Falcon 9 Block 5,Space Launch Complex 40,1,393
+2025-11-06 01:31,2025,Falcon 9 Block 5,Space Launch Complex 40,1,394
+2025-11-06 21:13,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,395
+2025-11-09 08:10,2025,Falcon 9 Block 5,Launch Complex 39A,1,396
+2025-11-11 03:21,2025,Falcon 9 Block 5,Space Launch Complex 40,1,397
+2025-11-15 03:08,2025,Falcon 9 Block 5,Launch Complex 39A,1,398
+2025-11-15 06:44,2025,Falcon 9 Block 5,Space Launch Complex 40,1,399
+2025-11-17 05:21,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,400
+2025-11-19 00:12,2025,Falcon 9 Block 5,Space Launch Complex 40,1,401
+2025-11-21 03:39,2025,Falcon 9 Block 5,Launch Complex 39A,1,402
+2025-11-22 07:53,2025,Falcon 9 Block 5,Space Launch Complex 40,1,403
+2025-11-23 08:48,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,404
+2025-11-28 18:44,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,405
+2025-12-01 07:44,2025,Falcon 9 Block 5,Launch Complex 39A,1,406
+2025-12-02 05:28,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,407
+2025-12-02 22:18,2025,Falcon 9 Block 5,Space Launch Complex 40,1,408
+2025-12-04 20:42,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,409
+2025-12-07 17:58,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,410
+2025-12-08 22:26,2025,Falcon 9 Block 5,Launch Complex 39A,1,411
+2025-12-09 19:16,2025,Falcon 9 Block 5,Space Launch Complex 40,1,412
+2025-12-10 11:40,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,413
+2025-12-11 22:01,2025,Falcon 9 Block 5,Space Launch Complex 40,1,414
+2025-12-14 05:49,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,415
+2025-12-15 05:25,2025,Falcon 9 Block 5,Space Launch Complex 40,1,416
+2025-12-17 13:42,2025,Falcon 9 Block 5,Launch Complex 39A,1,417
+2025-12-17 15:27,2025,Falcon 9 Block 5,Space Launch Complex 4E,1,418

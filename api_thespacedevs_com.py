@@ -13,7 +13,8 @@ with open('from2022to2025.csv', 'w', newline='', encoding='utf-8') as csvfile:
 
     writer.writerow(['date', 'year', 'rocket_name', 'launchpad_name', 'success', 'flight_number'])
     
-    results = data['results']
+    results = sorted(data['results'], key=lambda x: datetime.fromisoformat(x.get('net', '').replace('Z', '+00:00')))
+    
     for idx, launch in enumerate(results, start=1):
         net_str = launch.get('net')
         date_obj = datetime.fromisoformat(net_str.replace('Z', '+00:00'))

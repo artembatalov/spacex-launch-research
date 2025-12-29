@@ -1,10 +1,11 @@
 # надо подумать что такое запуски у которых успешность не 0 и не 1
 
-'''
-Space Launch Complex 40 = CCSFS SLC 40
-Space Launch Complex 4E = VAFB SLC 4E
-Launch Complex 39A = KSC LC 39A
-'''
+launchpads_dict = {
+    "CCSFS SLC 40" : "Space Launch Complex 40",
+    "VAFB SLC 4E" : "Space Launch Complex 4E",
+    "KSC LC 39A" : "Launch Complex 39A"
+}
+
 
 import requests
 import csv
@@ -46,6 +47,8 @@ with open('from2006to2022.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     writer.writerow(['date', 'year', 'rocket_name', 'launchpad_name', 'success', 'flight_number'])
     
+    counter = 1
+
     for launch in launches:
         date_utc = launch.get('date_utc', '')
         year = date_utc[:4] if date_utc else ''
@@ -54,7 +57,13 @@ with open('from2006to2022.csv', 'w', newline='', encoding='utf-8') as f:
         date_utc = date_utc.strftime('%Y-%m-%d %H:%M')
 
         rocket_name = rocket_names.get(launch.get('rocket'), 'Unknown')
-        launchpad_name = launchpad_names.get(launch.get('launchpad'), 'Unknown')
+
+        csv_launchpad_name = launchpad_names.get(launch.get('launchpad'), 'Unknown')
+        launchpad_name = csv_launchpad_name
+
+        if csv_launchpad_name in launchpads_dict:
+            launchpad_name = launchpads_dict[csv_launchpad_name]
+            
         
         success_val = launch.get('success')
         success = 1 if success_val is True else 0 if success_val is False else -1
@@ -65,8 +74,10 @@ with open('from2006to2022.csv', 'w', newline='', encoding='utf-8') as f:
             rocket_name,
             launchpad_name,
             success,
-            launch.get('flight_number', '')
+            counter
         ])
+
+        counter += 1
 
 print('Все записи сохранены в from2006to2022.csv')
 
